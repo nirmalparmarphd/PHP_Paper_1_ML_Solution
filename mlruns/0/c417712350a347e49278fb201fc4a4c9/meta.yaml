@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/c417712350a347e49278fb201fc4a4c9/artifacts
+end_time: 1698597134161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c417712350a347e49278fb201fc4a4c9
+run_name: gaudy-roo-887
+run_uuid: c417712350a347e49278fb201fc4a4c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698597131867
+status: 3
+tags: []
+user_id: nirmal

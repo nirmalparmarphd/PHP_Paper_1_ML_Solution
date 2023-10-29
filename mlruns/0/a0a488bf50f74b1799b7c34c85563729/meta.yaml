@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/a0a488bf50f74b1799b7c34c85563729/artifacts
+end_time: 1698597143169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0a488bf50f74b1799b7c34c85563729
+run_name: overjoyed-crow-40
+run_uuid: a0a488bf50f74b1799b7c34c85563729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698597140954
+status: 3
+tags: []
+user_id: nirmal

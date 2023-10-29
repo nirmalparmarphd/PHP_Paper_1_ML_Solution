@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/338bc113d44f4f5ba3ca0caa56ae6521/artifacts
+end_time: 1698597127465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 338bc113d44f4f5ba3ca0caa56ae6521
+run_name: rumbling-bug-552
+run_uuid: 338bc113d44f4f5ba3ca0caa56ae6521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698597125184
+status: 3
+tags: []
+user_id: nirmal

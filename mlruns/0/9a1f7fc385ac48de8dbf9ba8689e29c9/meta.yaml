@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/9a1f7fc385ac48de8dbf9ba8689e29c9/artifacts
+end_time: 1698597125181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a1f7fc385ac48de8dbf9ba8689e29c9
+run_name: nebulous-snail-397
+run_uuid: 9a1f7fc385ac48de8dbf9ba8689e29c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698597122877
+status: 3
+tags: []
+user_id: nirmal
