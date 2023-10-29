@@ -1,0 +1,26 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.7.1
+model_uuid: 2f4a8d9db906434cb7b221f23a0065ff
+run_id: 093a36558a8440c3b4c751cd74f822ef
+signature:
+  inputs: '[{"type": "double", "name": "Te[K]"}, {"type": "double", "name": "dT[K]"},
+    {"type": "double", "name": "P[bar]"}, {"type": "long", "name": "Q[W]"}, {"type":
+    "string", "name": "Fluid"}, {"type": "long", "name": "FR"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    2]}}]'
+  params: null
+utc_time_created: '2023-10-29 16:08:55.498012'

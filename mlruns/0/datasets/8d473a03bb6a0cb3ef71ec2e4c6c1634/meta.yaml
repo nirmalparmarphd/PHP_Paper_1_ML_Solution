@@ -1,0 +1,9 @@
+digest: 30e2c424
+name: dataset
+profile: '{"num_rows": 954, "num_elements": 5724}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Te[K]"}, {"type": "double",
+  "name": "dT[K]"}, {"type": "double", "name": "P[bar]"}, {"type": "long", "name":
+  "Q[W]"}, {"type": "string", "name": "Fluid"}, {"type": "long", "name": "FR"}]}'
+source: '{"tags": {"mlflow.user": "nirmal", "mlflow.source.name": "/Users/nirmal/Documents/np_dsci_codes/.venv/lib/python3.11/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
