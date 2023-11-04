@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/ac73a092a64940368e5f0d2bd3783e23/artifacts
+deleted_time: 1699118601537
+end_time: 1699118346570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ac73a092a64940368e5f0d2bd3783e23
+run_name: wistful-fox-450
+run_uuid: ac73a092a64940368e5f0d2bd3783e23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699118345327
+status: 3
+tags: []
+user_id: nirmal

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/dba995fd2bb24fe0a689cac01448c555/artifacts
+deleted_time: 1699118310152
+end_time: 1699117855253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dba995fd2bb24fe0a689cac01448c555
+run_name: intelligent-fowl-140
+run_uuid: dba995fd2bb24fe0a689cac01448c555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699117854091
+status: 3
+tags: []
+user_id: nirmal

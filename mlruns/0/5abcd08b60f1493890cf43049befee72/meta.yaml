@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/5abcd08b60f1493890cf43049befee72/artifacts
+deleted_time: 1699118310149
+end_time: 1699117858814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5abcd08b60f1493890cf43049befee72
+run_name: caring-jay-414
+run_uuid: 5abcd08b60f1493890cf43049befee72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699117857641
+status: 3
+tags: []
+user_id: nirmal

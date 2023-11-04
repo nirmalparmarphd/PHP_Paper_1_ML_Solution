@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/58baf0a82676478db1fcf8dbf5326cd9/artifacts
+deleted_time: 1699118601541
+end_time: 1699118351374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 58baf0a82676478db1fcf8dbf5326cd9
+run_name: burly-sloth-249
+run_uuid: 58baf0a82676478db1fcf8dbf5326cd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699118350184
+status: 3
+tags: []
+user_id: nirmal

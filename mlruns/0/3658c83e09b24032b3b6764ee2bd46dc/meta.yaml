@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/3658c83e09b24032b3b6764ee2bd46dc/artifacts
+deleted_time: 1699119036070
+end_time: 1699118617160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3658c83e09b24032b3b6764ee2bd46dc
+run_name: invincible-hog-501
+run_uuid: 3658c83e09b24032b3b6764ee2bd46dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699118615959
+status: 3
+tags: []
+user_id: nirmal

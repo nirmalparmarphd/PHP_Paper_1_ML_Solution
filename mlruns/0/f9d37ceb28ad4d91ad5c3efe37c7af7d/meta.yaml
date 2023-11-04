@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/f9d37ceb28ad4d91ad5c3efe37c7af7d/artifacts
+deleted_time: 1699119222175
+end_time: 1699119075511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f9d37ceb28ad4d91ad5c3efe37c7af7d
+run_name: incongruous-tern-386
+run_uuid: f9d37ceb28ad4d91ad5c3efe37c7af7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699119074258
+status: 3
+tags: []
+user_id: nirmal

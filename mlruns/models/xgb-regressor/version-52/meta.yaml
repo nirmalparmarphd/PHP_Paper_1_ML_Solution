@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1699118607656
+current_stage: None
+description: null
+last_updated_timestamp: 1699118607656
+name: xgb-regressor
+run_id: d0f91cda435b4a99922d05a9eb3553d1
+run_link: null
+source: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/d0f91cda435b4a99922d05a9eb3553d1/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 52

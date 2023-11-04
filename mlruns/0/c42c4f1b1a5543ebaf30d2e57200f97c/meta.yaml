@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/c42c4f1b1a5543ebaf30d2e57200f97c/artifacts
+end_time: 1699120013192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c42c4f1b1a5543ebaf30d2e57200f97c
+run_name: adventurous-dog-937
+run_uuid: c42c4f1b1a5543ebaf30d2e57200f97c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699120011455
+status: 3
+tags: []
+user_id: nirmal

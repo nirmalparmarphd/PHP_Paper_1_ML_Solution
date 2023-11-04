@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/9dcc753cf08c489ab5bb0843a30b5b31/artifacts
+deleted_time: 1699119222180
+end_time: 1699119069373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9dcc753cf08c489ab5bb0843a30b5b31
+run_name: intelligent-flea-759
+run_uuid: 9dcc753cf08c489ab5bb0843a30b5b31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699119068081
+status: 3
+tags: []
+user_id: nirmal

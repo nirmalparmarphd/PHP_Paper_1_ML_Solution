@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/98027f5568b44964b3b54696b863b4fc/artifacts
+end_time: 1699120026715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98027f5568b44964b3b54696b863b4fc
+run_name: respected-shad-682
+run_uuid: 98027f5568b44964b3b54696b863b4fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699120025547
+status: 3
+tags: []
+user_id: nirmal

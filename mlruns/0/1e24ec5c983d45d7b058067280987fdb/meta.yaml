@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/1e24ec5c983d45d7b058067280987fdb/artifacts
+end_time: 1699119602600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e24ec5c983d45d7b058067280987fdb
+run_name: efficient-fly-724
+run_uuid: 1e24ec5c983d45d7b058067280987fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699119601381
+status: 3
+tags: []
+user_id: nirmal

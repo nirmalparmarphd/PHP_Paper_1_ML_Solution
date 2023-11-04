@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/79f949dc399c4c14aedcabb3810f3b8b/artifacts
+deleted_time: 1699118310157
 end_time: 1698597140951
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 79f949dc399c4c14aedcabb3810f3b8b
 run_name: skittish-dove-990
 run_uuid: 79f949dc399c4c14aedcabb3810f3b8b

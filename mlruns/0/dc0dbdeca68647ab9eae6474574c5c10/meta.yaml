@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/dc0dbdeca68647ab9eae6474574c5c10/artifacts
+deleted_time: 1699119222175
+end_time: 1699119066825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dc0dbdeca68647ab9eae6474574c5c10
+run_name: luminous-newt-258
+run_uuid: dc0dbdeca68647ab9eae6474574c5c10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699119065510
+status: 3
+tags: []
+user_id: nirmal

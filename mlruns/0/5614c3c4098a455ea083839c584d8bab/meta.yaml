@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/5614c3c4098a455ea083839c584d8bab/artifacts
+deleted_time: 1699118310159
 end_time: 1698597136266
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5614c3c4098a455ea083839c584d8bab
 run_name: bald-perch-933
 run_uuid: 5614c3c4098a455ea083839c584d8bab

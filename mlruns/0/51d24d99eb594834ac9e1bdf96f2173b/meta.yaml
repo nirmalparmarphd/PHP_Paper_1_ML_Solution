@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/51d24d99eb594834ac9e1bdf96f2173b/artifacts
+deleted_time: 1699118601549
+end_time: 1699118355204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 51d24d99eb594834ac9e1bdf96f2173b
+run_name: victorious-goat-56
+run_uuid: 51d24d99eb594834ac9e1bdf96f2173b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699118354032
+status: 3
+tags: []
+user_id: nirmal

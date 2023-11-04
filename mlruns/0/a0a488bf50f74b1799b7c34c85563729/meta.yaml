@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/a0a488bf50f74b1799b7c34c85563729/artifacts
+deleted_time: 1699118310156
 end_time: 1698597143169
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a0a488bf50f74b1799b7c34c85563729
 run_name: overjoyed-crow-40
 run_uuid: a0a488bf50f74b1799b7c34c85563729

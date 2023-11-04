@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/101661d4c1874b06b624e2da43d22f8f/artifacts
+deleted_time: 1699119036077
+end_time: 1699118606527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 101661d4c1874b06b624e2da43d22f8f
+run_name: calm-wasp-957
+run_uuid: 101661d4c1874b06b624e2da43d22f8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699118605095
+status: 3
+tags: []
+user_id: nirmal

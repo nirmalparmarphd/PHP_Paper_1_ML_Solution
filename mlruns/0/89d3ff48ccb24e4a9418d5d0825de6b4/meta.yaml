@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/89d3ff48ccb24e4a9418d5d0825de6b4/artifacts
+deleted_time: 1699119036076
+end_time: 1699118614781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 89d3ff48ccb24e4a9418d5d0825de6b4
+run_name: stately-grouse-428
+run_uuid: 89d3ff48ccb24e4a9418d5d0825de6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699118613629
+status: 3
+tags: []
+user_id: nirmal

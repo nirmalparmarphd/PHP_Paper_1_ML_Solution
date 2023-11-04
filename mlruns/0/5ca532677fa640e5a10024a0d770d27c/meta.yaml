@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/5ca532677fa640e5a10024a0d770d27c/artifacts
+deleted_time: 1699118310152
+end_time: 1699117857639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5ca532677fa640e5a10024a0d770d27c
+run_name: unruly-wolf-464
+run_uuid: 5ca532677fa640e5a10024a0d770d27c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699117856451
+status: 3
+tags: []
+user_id: nirmal

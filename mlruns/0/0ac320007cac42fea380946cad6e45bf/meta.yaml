@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/0/0ac320007cac42fea380946cad6e45bf/artifacts
+end_time: 1699119604968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ac320007cac42fea380946cad6e45bf
+run_name: dashing-penguin-297
+run_uuid: 0ac320007cac42fea380946cad6e45bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699119603804
+status: 3
+tags: []
+user_id: nirmal
