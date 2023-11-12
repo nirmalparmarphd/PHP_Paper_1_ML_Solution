@@ -1,8 +1,0 @@
-[('Preprocessing', ColumnTransformer(transformers=[('num',
-                                 Pipeline(steps=[('standardscaler',
-                                                  StandardScaler())]),
-                                 ['Te[K]', 'dT[K]', 'P[bar]', 'Q[W]', 'FR']),
-                                ('cat',
-                                 Pipeline(steps=[('onehotencoder',
-                                                  OneHotEncoder(sparse_output=False))]),
-                         ...
