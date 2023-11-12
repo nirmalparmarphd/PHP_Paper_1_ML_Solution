@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/464116160665726814/9a513c3683f5409cba432e7f838854cf/artifacts
+deleted_time: 1699815585666
+end_time: 1699815416891
+entry_point_name: ''
+experiment_id: '464116160665726814'
+lifecycle_stage: deleted
+run_id: 9a513c3683f5409cba432e7f838854cf
+run_name: Support Vector Machine_run
+run_uuid: 9a513c3683f5409cba432e7f838854cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699815416863
+status: 4
+tags: []
+user_id: nirmal

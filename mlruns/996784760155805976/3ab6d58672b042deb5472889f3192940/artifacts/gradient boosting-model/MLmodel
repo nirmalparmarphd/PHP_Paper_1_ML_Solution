@@ -1,0 +1,25 @@
+artifact_path: gradient boosting-model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.7.1
+model_uuid: 42f2fdc62ee347f493b1ea30d574086a
+run_id: 3ab6d58672b042deb5472889f3192940
+signature:
+  inputs: '[{"type": "double", "name": "Te[K]"}, {"type": "double", "name": "P[bar]"},
+    {"type": "long", "name": "Q[W]"}, {"type": "string", "name": "Fluid"}, {"type":
+    "long", "name": "FR"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2023-11-12 18:07:38.738008'

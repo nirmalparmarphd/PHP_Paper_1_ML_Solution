@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/464116160665726814/c342966bff4b403580704e41b7ba688f/artifacts
+deleted_time: 1699815585666
+end_time: 1699815385089
+entry_point_name: ''
+experiment_id: '464116160665726814'
+lifecycle_stage: deleted
+run_id: c342966bff4b403580704e41b7ba688f
+run_name: XGBoost_run
+run_uuid: c342966bff4b403580704e41b7ba688f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699815383652
+status: 3
+tags: []
+user_id: nirmal

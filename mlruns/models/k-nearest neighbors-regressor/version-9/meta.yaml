@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1699812495354
+current_stage: None
+description: null
+last_updated_timestamp: 1699812495354
+name: k-nearest neighbors-regressor
+run_id: c13992fd93a743d2b4ca39806ad7910e
+run_link: null
+source: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/996784760155805976/c13992fd93a743d2b4ca39806ad7910e/artifacts/k-nearest
+  neighbors-model
+status: READY
+status_message: null
+user_id: null
+version: 9

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/447763441840708309/6eb1d42ec13b43d1a18f0d03796db198/artifacts
+end_time: 1699815624420
+entry_point_name: ''
+experiment_id: '447763441840708309'
+lifecycle_stage: active
+run_id: 6eb1d42ec13b43d1a18f0d03796db198
+run_name: Gradient Boosting_run
+run_uuid: 6eb1d42ec13b43d1a18f0d03796db198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699815624399
+status: 4
+tags: []
+user_id: nirmal

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/464116160665726814/2f76fbc0b5ca48a49d6e0581be14ae92/artifacts
+deleted_time: 1699815585666
+end_time: 1699815427643
+entry_point_name: ''
+experiment_id: '464116160665726814'
+lifecycle_stage: deleted
+run_id: 2f76fbc0b5ca48a49d6e0581be14ae92
+run_name: K-Nearest Neighbors_run
+run_uuid: 2f76fbc0b5ca48a49d6e0581be14ae92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699815426446
+status: 3
+tags: []
+user_id: nirmal
