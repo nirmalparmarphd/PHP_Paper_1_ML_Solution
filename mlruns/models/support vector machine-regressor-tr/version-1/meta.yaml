@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1701554208727
+current_stage: None
+description: null
+last_updated_timestamp: 1701554208727
+name: support vector machine-regressor-tr
+run_id: b0e0267e9bbb4c6d897b2a889076d76a
+run_link: null
+source: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/117702060832553221/b0e0267e9bbb4c6d897b2a889076d76a/artifacts/support
+  vector machine-model-tr
+status: READY
+status_message: null
+user_id: null
+version: 1

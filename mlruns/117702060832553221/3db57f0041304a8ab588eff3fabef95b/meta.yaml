@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/117702060832553221/3db57f0041304a8ab588eff3fabef95b/artifacts
+end_time: 1701554222282
+entry_point_name: ''
+experiment_id: '117702060832553221'
+lifecycle_stage: active
+run_id: 3db57f0041304a8ab588eff3fabef95b
+run_name: efficient-bass-123
+run_uuid: 3db57f0041304a8ab588eff3fabef95b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701554220249
+status: 3
+tags: []
+user_id: nirmal

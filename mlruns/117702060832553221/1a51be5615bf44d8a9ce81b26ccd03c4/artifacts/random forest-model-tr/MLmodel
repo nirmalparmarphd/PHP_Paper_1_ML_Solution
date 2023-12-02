@@ -1,0 +1,25 @@
+artifact_path: random forest-model-tr
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.7.1
+model_uuid: 37bd0ddc16bc43b183d1bae17d5b2fa1
+run_id: 1a51be5615bf44d8a9ce81b26ccd03c4
+signature:
+  inputs: '[{"type": "double", "name": "Te[K]"}, {"type": "double", "name": "P[bar]"},
+    {"type": "long", "name": "Q[W]"}, {"type": "string", "name": "Fluid"}, {"type":
+    "long", "name": "FR"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2023-12-02 21:56:19.491099'
