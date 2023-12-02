@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1701559883783
+current_stage: None
+description: null
+last_updated_timestamp: 1701559883783
+name: k-nearest neighbors-regressor-tp
+run_id: 3ff7dba3877d4362b011b0aa67bd31cb
+run_link: null
+source: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/323290603228189953/3ff7dba3877d4362b011b0aa67bd31cb/artifacts/k-nearest
+  neighbors-model-tp
+status: READY
+status_message: null
+storage_location: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/323290603228189953/3ff7dba3877d4362b011b0aa67bd31cb/artifacts/k-nearest
+  neighbors-model-tp
+user_id: null
+version: 19

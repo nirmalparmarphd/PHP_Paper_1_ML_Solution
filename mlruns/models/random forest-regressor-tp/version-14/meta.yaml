@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1701559849505
+current_stage: None
+description: null
+last_updated_timestamp: 1701559849505
+name: random forest-regressor-tp
+run_id: 2b72968ba0784265bd469f69b044e8f5
+run_link: null
+source: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/323290603228189953/2b72968ba0784265bd469f69b044e8f5/artifacts/random
+  forest-model-tp
+status: READY
+status_message: null
+storage_location: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/323290603228189953/2b72968ba0784265bd469f69b044e8f5/artifacts/random
+  forest-model-tp
+user_id: null
+version: 14
