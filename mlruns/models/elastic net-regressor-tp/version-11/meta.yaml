@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1701558033720
+current_stage: None
+description: null
+last_updated_timestamp: 1701558033720
+name: elastic net-regressor-tp
+run_id: c2b6b15fbecc42e79ae1dc3e3f39385b
+run_link: null
+source: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/323290603228189953/c2b6b15fbecc42e79ae1dc3e3f39385b/artifacts/best_elastic
+  net_model_tp
+status: READY
+status_message: null
+storage_location: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/323290603228189953/c2b6b15fbecc42e79ae1dc3e3f39385b/artifacts/best_elastic
+  net_model_tp
+user_id: null
+version: 11

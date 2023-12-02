@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/323290603228189953/45d4e25e7ee144d48cd51b1746878b96/artifacts
+end_time: 1701558017785
+entry_point_name: ''
+experiment_id: '323290603228189953'
+lifecycle_stage: active
+run_id: 45d4e25e7ee144d48cd51b1746878b96
+run_name: lyrical-calf-267
+run_uuid: 45d4e25e7ee144d48cd51b1746878b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701558015037
+status: 3
+tags: []
+user_id: nirmal

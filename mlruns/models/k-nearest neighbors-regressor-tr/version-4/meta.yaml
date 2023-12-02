@@ -1,14 +1,16 @@
 aliases: []
-creation_timestamp: 1701554226564
+creation_timestamp: 1701557863657
 current_stage: None
 description: null
-last_updated_timestamp: 1701554226564
+last_updated_timestamp: 1701557863657
 name: k-nearest neighbors-regressor-tr
-run_id: b4fd08f45ce24c9c80c1ea65713ed28d
+run_id: 7ff40d88b27e4471b839631034916cc5
 run_link: null
-source: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/117702060832553221/b4fd08f45ce24c9c80c1ea65713ed28d/artifacts/k-nearest
+source: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/332554728246457966/7ff40d88b27e4471b839631034916cc5/artifacts/k-nearest
   neighbors-model-tr
 status: READY
 status_message: null
+storage_location: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/332554728246457966/7ff40d88b27e4471b839631034916cc5/artifacts/k-nearest
+  neighbors-model-tr
 user_id: null
 version: 4

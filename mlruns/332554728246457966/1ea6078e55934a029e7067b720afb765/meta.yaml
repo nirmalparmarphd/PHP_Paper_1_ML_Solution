@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/332554728246457966/1ea6078e55934a029e7067b720afb765/artifacts
+end_time: 1701557858303
+entry_point_name: ''
+experiment_id: '332554728246457966'
+lifecycle_stage: active
+run_id: 1ea6078e55934a029e7067b720afb765
+run_name: dapper-donkey-474
+run_uuid: 1ea6078e55934a029e7067b720afb765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701557855681
+status: 3
+tags: []
+user_id: nirmal

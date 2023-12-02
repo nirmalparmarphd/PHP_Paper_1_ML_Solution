@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/323290603228189953/b02a47d9f3bd4a0b86b8b614b6f12696/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '323290603228189953'
+lifecycle_stage: active
+run_id: b02a47d9f3bd4a0b86b8b614b6f12696
+run_name: caring-lynx-613
+run_uuid: b02a47d9f3bd4a0b86b8b614b6f12696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701558049178
+status: 1
+tags: []
+user_id: nirmal

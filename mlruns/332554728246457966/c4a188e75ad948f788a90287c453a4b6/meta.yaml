@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/332554728246457966/c4a188e75ad948f788a90287c453a4b6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '332554728246457966'
+lifecycle_stage: active
+run_id: c4a188e75ad948f788a90287c453a4b6
+run_name: dashing-quail-24
+run_uuid: c4a188e75ad948f788a90287c453a4b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701557871476
+status: 1
+tags: []
+user_id: nirmal
