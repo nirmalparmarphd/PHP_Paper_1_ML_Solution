@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713702045715
+current_stage: None
+description: null
+last_updated_timestamp: 1713702045715
+name: xgboost-regressor-tr
+run_id: a1c9fad375824f6ab3bb563140e0f96a
+run_link: null
+source: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/332554728246457966/a1c9fad375824f6ab3bb563140e0f96a/artifacts/xgboost-model-tr
+status: READY
+status_message: null
+storage_location: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/332554728246457966/a1c9fad375824f6ab3bb563140e0f96a/artifacts/xgboost-model-tr
+user_id: null
+version: 21

@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1713702080738
+current_stage: None
+description: null
+last_updated_timestamp: 1713702080738
+name: gradient boosting-regressor-tr
+run_id: 7d5d5b17a7324691867cab512c55a6ec
+run_link: null
+source: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/332554728246457966/7d5d5b17a7324691867cab512c55a6ec/artifacts/gradient
+  boosting-model-tr
+status: READY
+status_message: null
+storage_location: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/332554728246457966/7d5d5b17a7324691867cab512c55a6ec/artifacts/gradient
+  boosting-model-tr
+user_id: null
+version: 22

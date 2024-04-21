@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/332554728246457966/3e1cc7fcccc44a34a5a6c5b59b0489ad/artifacts
+end_time: 1713702094295
+entry_point_name: ''
+experiment_id: '332554728246457966'
+lifecycle_stage: active
+run_id: 3e1cc7fcccc44a34a5a6c5b59b0489ad
+run_name: languid-worm-9
+run_uuid: 3e1cc7fcccc44a34a5a6c5b59b0489ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713702094288
+status: 3
+tags: []
+user_id: nirmal

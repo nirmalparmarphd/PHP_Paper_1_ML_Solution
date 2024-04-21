@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/332554728246457966/e08de872e6ef4a449f8aef580ff79b21/artifacts
+end_time: 1713702056100
+entry_point_name: ''
+experiment_id: '332554728246457966'
+lifecycle_stage: active
+run_id: e08de872e6ef4a449f8aef580ff79b21
+run_name: Random Forest_run
+run_uuid: e08de872e6ef4a449f8aef580ff79b21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713702054522
+status: 3
+tags: []
+user_id: nirmal

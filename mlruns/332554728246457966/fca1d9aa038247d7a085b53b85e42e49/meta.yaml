@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nirmal/Documents/np_dsci_codes/PHP_Paper_1_ML_Solution/mlruns/332554728246457966/fca1d9aa038247d7a085b53b85e42e49/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '332554728246457966'
+lifecycle_stage: active
+run_id: fca1d9aa038247d7a085b53b85e42e49
+run_name: serious-gull-354
+run_uuid: fca1d9aa038247d7a085b53b85e42e49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713702105628
+status: 1
+tags: []
+user_id: nirmal
